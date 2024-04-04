@@ -1,3 +1,6 @@
+*[](https://github.com/kdschmidt1/avnav-more-nmea-plugin/blob/master/Achtung.png)This Plugin is deprecated and remains here only for historical reasons.*
+
+
 **AvNav more-nmea Plugin**
 
 ===========================
