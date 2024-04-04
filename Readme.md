@@ -1,4 +1,16 @@
-* [](https://github.com/kdschmidt1/avnav-more-nmea-plugin/blob/master/Achtung.png)This Plugin is deprecated and remains here only for historical reasons. *
+#  ![](https://github.com/kdschmidt1/avnav-more-nmea-plugin/blob/master/Achtung.png)  This Plugin is deprecated and no more maintained
+
+**As a replacement please take a look at  [Sail_Instrument](https://github.com/kdschmidt1/Sail_Instrument)**
+===========================
+
+
+
+
+
+
+
+
+
 
 
 **AvNav more-nmea Plugin**
